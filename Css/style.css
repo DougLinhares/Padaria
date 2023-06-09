@@ -1,0 +1,50 @@
+body{
+  margin: 0px;
+  background-color: #fff;
+  font-family: Tahoma;
+}
+
+.img-logotipo{
+  width: 200px;
+  margin-top: 30px;
+}
+
+.img-produto{
+  width: 700px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+
+}
+
+.secao{
+  width: 700px;
+  margin: 15px auto;
+  text-align: center;
+  color:white;
+
+}
+
+.secao-destaque{
+  background-color: #de8e37;
+  width: 700px;
+  padding-top: 13px;
+  padding-bottom: 20px;
+}
+
+.img-meio{
+  width: 500px;
+}
+
+h1{
+  font-size: 30px;
+  color: black;
+}
+
+h2{
+  color: #de8e37;
+  font-weight: normal;
+}
+
+.rodape{
+  color: black;
+}
